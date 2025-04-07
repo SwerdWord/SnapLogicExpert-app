@@ -2,8 +2,6 @@ import streamlit as st
 import requests
 import time
 
-#testing git
-
 # RFP Agent URL and Token
 URL = "https://emea.snaplogic.com/api/1/rest/slsched/feed/ConnectFasterInc/snapLogic4snapLogic/AutoRFPAgent/ApiRfpAgent"
 BEARER_TOKEN = "nNpLBJrd8FAtFh3TVC9xR97QAwWtJHgF"
